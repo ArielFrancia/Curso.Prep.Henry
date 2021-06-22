@@ -1,0 +1,3 @@
+For: Crea un bucle de elementos
+&&: añade un además a los elementos, por ejemplo, si x mayor a p y también mayor a y, se utiliza el &&
+||: añade un o a los elementos, por ejemplo, x es mayor a p o menor que q 
