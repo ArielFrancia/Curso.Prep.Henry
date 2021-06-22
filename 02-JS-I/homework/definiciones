@@ -1,0 +1,5 @@
+Variables: Es un elemento que se usa para darle almacenamiento y valor a otro elemento.;
+String: Es un cadena de carácteres;
+Funciones: Es un conjunto de problemas a resolver, la cual te otorga unos argumentos y le tenés que hacer una devolución en relación;
+Declaraciones: Se usa para comparar elementos y relacionarlos entre sí;
+Valores booleanos: Elementos que determinan si algo es verdadero o falso, de acuerdo a lo que se indique;
